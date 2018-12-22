@@ -1,0 +1,6 @@
+use_frameworks!
+target 'sozenBKMtest4_Tests' do
+  pod 'sozenBKMtest4', :path => '../'
+  
+  
+end
