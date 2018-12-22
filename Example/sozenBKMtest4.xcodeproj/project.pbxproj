@@ -12,13 +12,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		4BEB0762C2ACA6ED9ECE0E66 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		4BEB0762C2ACA6ED9ECE0E66 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		607FACE51AFB9204008FA782 /* sozenBKMtest4_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = sozenBKMtest4_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		66F836A4CE79928E0914B70F /* Pods_sozenBKMtest4_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_sozenBKMtest4_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8D2655EA7E51718588D8CFC0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		BA68A5EB77713B6D14237A18 /* sozenBKMtest4.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = sozenBKMtest4.podspec; path = ../sozenBKMtest4.podspec; sourceTree = "<group>"; };
+		8D2655EA7E51718588D8CFC0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		BA68A5EB77713B6D14237A18 /* sozenBKMtest4.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = sozenBKMtest4.podspec; path = ../sozenBKMtest4.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		E6A99A24FA96464E7E0CA03E /* Pods-sozenBKMtest4_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sozenBKMtest4_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-sozenBKMtest4_Tests/Pods-sozenBKMtest4_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		F70C22D66C47A52581DA6F49 /* Pods-sozenBKMtest4_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-sozenBKMtest4_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-sozenBKMtest4_Tests/Pods-sozenBKMtest4_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

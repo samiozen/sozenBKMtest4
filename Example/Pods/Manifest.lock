@@ -1,0 +1,16 @@
+PODS:
+  - sozenBKMtest4 (0.1.0)
+
+DEPENDENCIES:
+  - sozenBKMtest4 (from `../`)
+
+EXTERNAL SOURCES:
+  sozenBKMtest4:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  sozenBKMtest4: 0f5a0641cea05dc3724316ba8a6b09d1e46ed3e8
+
+PODFILE CHECKSUM: 65dc4029a468fbb08fbeccbd52be0b71b4da6568
+
+COCOAPODS: 1.5.3

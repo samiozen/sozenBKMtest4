@@ -1,0 +1,22 @@
+{
+  "name": "sozenBKMtest4",
+  "version": "0.1.0",
+  "summary": "A short description of sozenBKMtest4.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ozen.sami@gmail.com/sozenBKMtest4",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ozen.sami@gmail.com": "ozen.sami@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ozen.sami@gmail.com/sozenBKMtest4.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "sozenBKMtest4/Classes/**/*"
+}
